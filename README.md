@@ -1,2 +1,2 @@
 # datatouille
-Learning and applying data analysis and visualization concepts
+Learning and applying data analysis and visualization concepts 
